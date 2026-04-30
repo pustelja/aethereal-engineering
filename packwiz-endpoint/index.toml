@@ -425,6 +425,11 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
+metafile = true
+
+[[files]]
 file = "mods/aetherial-islands-2.0.2.jar"
 hash = "6c1bc752b632f233b28cfd5137da2e6fb1d56fb308c8f760bc321b37038bc26f"
 
@@ -440,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
+file = "mods/azs-mining-dimension.pw.toml"
+hash = "b0ab060677fbafadf1c40aa993ae50611375a1ce1cf3adba964671cffca6b99e"
 metafile = true
 
 [[files]]
@@ -563,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/no-void-structures-2.0.1.jar"
 hash = "e1a2fba64bc02f1cbd58ed3d408702ee1e1200403a8d8f50dff8e82ebebb9551"
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"

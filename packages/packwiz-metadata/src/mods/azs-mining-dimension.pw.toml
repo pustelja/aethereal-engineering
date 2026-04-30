@@ -1,0 +1,13 @@
+name = "Az's Mining Dimension"
+filename = "miningdimension-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7QuajbDj/versions/l7bq5nPF/miningdimension-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "f1f292c9b00ede52c1bb2a3d46610fa941545e6195623ae7e517181e01ab68ba1f6826f28541d39561bc0bae54c821abc5b03251c1f44af172217f1028ca9e50"
+
+[update]
+[update.modrinth]
+mod-id = "7QuajbDj"
+version = "l7bq5nPF"
