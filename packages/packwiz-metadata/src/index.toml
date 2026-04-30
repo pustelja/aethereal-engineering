@@ -337,30 +337,6 @@ file = "config/terrablender.toml"
 hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
 
 [[files]]
-file = "config/voicechat/category-volumes.properties"
-hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
-
-[[files]]
-file = "config/voicechat/player-volumes.properties"
-hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
-
-[[files]]
-file = "config/voicechat/translations.properties"
-hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "5c4bacbfe0ec6c65f7b23da54597c9bec7237ffc5ab831ac0e4c1d8adc884f64"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "fe99dd8645930782406c3a2782454431538b6802bc9c4ddb0d45097c90365720"
-
-[[files]]
 file = "config/watut-client.toml"
 hash = "165132e384817574b2d00b396665fd6d78c951a8058e60321a73dabfc8004da7"
 
@@ -584,11 +560,6 @@ file = "mods/no-void-structures-2.0.1.jar"
 hash = "e1a2fba64bc02f1cbd58ed3d408702ee1e1200403a8d8f50dff8e82ebebb9551"
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "711e6fc567eb2a2786c27245e13cc1ee9327c0fa43d7d4a58d0dc2436c536457"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
@@ -596,11 +567,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "087c90bc7aef7758cbf698829ac0b8b74a6f862f1918c7f415828524ae210f4c"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "cc9ce18e55788ddd2031e1c0f4d410053bb9b28f76da9d61cc0c9a57260597fa"
 metafile = true
 
 [[files]]
