@@ -1,13 +1,13 @@
-name = "Dynamic Light"
+name = "Dynamic light"
 filename = "dynamic-light-0.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "53b3c7930d62ded8de197be2378659029b07a5ad"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DJ1ZClf3/versions/mNngcJnA/dynamic-light-0.7.jar"
+hash-format = "sha512"
+hash = "bcaa1bae0ec7ce8ba3e4019aa6d5adc5648b71afedc3e69e360d00aeb126f3401b4dde024b9b595326efd5b4b1c10e9a864a04cbe61a3f4877d6e8bd758c3810"
 
 [update]
-[update.curseforge]
-file-id = 7613711
-project-id = 1145865
+[update.modrinth]
+mod-id = "DJ1ZClf3"
+version = "mNngcJnA"

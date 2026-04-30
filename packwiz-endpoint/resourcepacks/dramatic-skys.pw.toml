@@ -1,13 +1,13 @@
 name = "Dramatic Skys"
 filename = "Dramatic Skys Demo 1.5.3.36.3.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f4a4f43d3f88d8f0fd1e8abc1839faee6726c2b1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2YyNMled/versions/1o8EpgwD/Dramatic%20Skys%20Demo%201.5.3.36.3.zip"
+hash-format = "sha512"
+hash = "8b65ce3e26d85ad7d8488b1954bb99f1d1db480a0a36bb079f1f4a5c9ba6a534e9f4a8c2035118afc4cc0f252ce0aabcf80039fba694e8f9eadfcbfcfd53d233"
 
 [update]
-[update.curseforge]
-file-id = 7886728
-project-id = 231821
+[update.modrinth]
+mod-id = "2YyNMled"
+version = "1o8EpgwD"
