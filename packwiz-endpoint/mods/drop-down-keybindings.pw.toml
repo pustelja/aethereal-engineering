@@ -1,0 +1,13 @@
+name = "Drop-Down Keybindings"
+filename = "dropdown_keybindings-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88f9c8f6082338bde4ba87aecc9df35d6bd9c604"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6625401
+project-id = 1281974

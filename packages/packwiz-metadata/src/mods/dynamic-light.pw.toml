@@ -1,0 +1,13 @@
+name = "Dynamic Light"
+filename = "dynamic-light-0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53b3c7930d62ded8de197be2378659029b07a5ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7613711
+project-id = 1145865

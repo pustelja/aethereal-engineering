@@ -1,0 +1,12 @@
+name = "aethereal-engineering"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1a14775b3bbc3de7bab87ffaaf6bcea77c8730c3276cc0068852f92ccb19794d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

@@ -1,0 +1,13 @@
+name = "Health Indicator TXF"
+filename = "healthindicatortxf-1.21.1-1.3.9-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78d68479cbe42495c6c10c201ead3abd0c4e2126"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6596809
+project-id = 883384
