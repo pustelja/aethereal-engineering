@@ -546,6 +546,11 @@ hash = "0e7ca8cb57c5c68c0f348903430e221677a0ca5392e7ac24e759e8983883fc23"
 metafile = true
 
 [[files]]
+file = "mods/gears-n-kinetics.pw.toml"
+hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
+metafile = true
+
+[[files]]
 file = "mods/health-indicator-txf.pw.toml"
 hash = "33820aacc189bf0502de68e41f0d384d50fb5b012a1c476eda206443ad445932"
 metafile = true
